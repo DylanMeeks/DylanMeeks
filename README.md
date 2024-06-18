@@ -1,5 +1,1 @@
-
-<!---
-DylanMeeks/DylanMeeks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I'm an Electrical and Computer Engineering student at the University of Texas at Austin, I'm interested in Computer Architecture and hope to go to graduate school to get a PhD. in the subject. This account mostly contains presonal projects and dotfiles, please for the love of god don't use any of them.
